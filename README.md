@@ -13,7 +13,7 @@ We have tried to establish communication between Dustbins across the city and th
 - Establish communication between Dustbins across the city using just the existing network.
 - Use Google's Waypoints API for optimizing routes between various different dustbins.
 - Triggering alerts to Municipalities everytime dustbins are filled 70% of the volume.
-- Tree like  distribution algorithm.
+- Tree like  distribution algorithm.<br>
 **Usage**
 - Find the ino file and burn in the Arduino for given connections of IR sensor.
 - Using pyserial read the values and in a global variable having pre stored arrays
